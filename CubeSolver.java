@@ -137,7 +137,7 @@ public class CubeSolver
 				
 				//finishing the last layer
 				System.out.println("Step 5 Finishing the last layer");
-				System.out.println("There are four cases at this last step");
+				System.out.println("There are three cases at this last step");
 				Cubes.cubeEx();
 				System.out.println("The first case is that the top row is already solved! Congrats you finished.");
 				System.out.println("The second case is that the 1 and 3 on the top row are the same color with a different color in 2");
